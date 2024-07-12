@@ -1,0 +1,30 @@
+/*-- INDEX --*/
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+#index-title {
+    text-align: center;
+    color: #eea214;
+    background-color: #000000;
+}
+#header-2 {
+    color: #eea214;
+    display: inline;
+    background-color: #000000;
+    margin-left: 35px;
+    list-style: none;
+    font-size: 85px;    
+}
+#main-menu
+.recipe-link {
+    text-decoration: none;
+    color: #000000; 
+    display: inline;
+    background-color: #eea214;
+    list-style: none;   
+    font-size: 80px;
+}
+.copyright{
+    font-size: 15px;
+}
+/*recipes*/
