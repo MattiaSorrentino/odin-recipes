@@ -15,16 +15,48 @@ body{
     list-style: none;
     font-size: 85px;    
 }
-#main-menu
+
+#main-menu{
+    list-style: none;
+}
+
+.recipe-link:before {
+        content:"*";
+        font-size:120px;
+        vertical-align:bottom;
+        line-height:20px;
+}
+
 .recipe-link {
     text-decoration: none;
     color: #000000; 
-    display: inline;
     background-color: #eea214;
-    list-style: none;   
     font-size: 80px;
+    line-height: 120%;
 }
 .copyright{
     font-size: 15px;
+    background-color: #eea214;
 }
 /*recipes*/
+
+#title{
+    background-color: #eea214;
+}
+
+ul li {
+    list-style: none;
+}
+
+.header{  
+    color: #000000;
+    background-color: #eea214;
+    display: inline;
+}
+
+
+
+#back-home-link{
+    text-decoration:none;
+}
+
